@@ -1,4 +1,4 @@
-Paziti da se uvijek prvo pokrene server da bi se klijenti mogli spojit na njega. Moze se spojiti maksimalno 100 klijenata i igrati neovisno jedan o drugome.
+Moze se spojiti maksimalno 100 klijenata i igrati neovisno jedan o drugome.
 Kako koji korisnik zavrsi s igrom, poruka o njegovom odjavljivanju i rezultatu salje se svim prikljucenim korisnicima.
 
 Klijenta se odmah trazi unos imena i nakon unosa imena (ako se ne unese prekratko ili predugo ime) server mu salje izgled labirinta. 
